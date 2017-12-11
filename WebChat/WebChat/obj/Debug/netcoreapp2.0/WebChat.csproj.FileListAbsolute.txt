@@ -1,0 +1,12 @@
+c:\users\michael\source\repos\WebChat\WebChat\bin\Debug\netcoreapp2.0\WebChat.deps.json
+c:\users\michael\source\repos\WebChat\WebChat\bin\Debug\netcoreapp2.0\WebChat.runtimeconfig.json
+c:\users\michael\source\repos\WebChat\WebChat\bin\Debug\netcoreapp2.0\WebChat.runtimeconfig.dev.json
+c:\users\michael\source\repos\WebChat\WebChat\bin\Debug\netcoreapp2.0\WebChat.dll
+c:\users\michael\source\repos\WebChat\WebChat\obj\Debug\netcoreapp2.0\WebChat.csprojResolveAssemblyReference.cache
+c:\users\michael\source\repos\WebChat\WebChat\obj\Debug\netcoreapp2.0\WebChat.csproj.CoreCompileInputs.cache
+c:\users\michael\source\repos\WebChat\WebChat\obj\Debug\netcoreapp2.0\WebChat.AssemblyInfoInputs.cache
+c:\users\michael\source\repos\WebChat\WebChat\obj\Debug\netcoreapp2.0\WebChat.AssemblyInfo.cs
+c:\users\michael\source\repos\WebChat\WebChat\bin\Debug\netcoreapp2.0\WebChat.pdb
+c:\users\michael\source\repos\WebChat\WebChat\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+c:\users\michael\source\repos\WebChat\WebChat\obj\Debug\netcoreapp2.0\WebChat.dll
+c:\users\michael\source\repos\WebChat\WebChat\obj\Debug\netcoreapp2.0\WebChat.pdb
